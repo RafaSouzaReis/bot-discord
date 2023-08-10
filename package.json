@@ -9,6 +9,6 @@
     "eslint": "^8.46.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/index.js"
   }
 }
