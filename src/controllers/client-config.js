@@ -1,6 +1,6 @@
 const { Client, Events, GatewayIntentBits } = require('discord.js');
 const { config } = require('dotenv');
-const commandsLoader = require('./commandsLoader');
+const commandsLoader = require('./commands-loader');
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 

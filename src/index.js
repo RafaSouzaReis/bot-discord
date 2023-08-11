@@ -1,1 +1,1 @@
-const client = require('./controllers/clientConfig');
+const client = require('./controllers/client-config');
