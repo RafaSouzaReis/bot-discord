@@ -1,4 +1,4 @@
-const { Client, Events, GatewayIntentBits } = require('discord.js');
+const { Client, GatewayIntentBits } = require('discord.js');
 const { config } = require('dotenv');
 const commandsLoader = require('./commands-loader');
 
